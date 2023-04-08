@@ -1,0 +1,68 @@
+[Record of 06.04.2023]
+[21.23.30] -- Start of execution
+[21.23.30] -- New list element [id-1001]
+[21.23.30] -- New list element [id-1002]
+[21.23.30] -- New list element [id-1003]
+[21.23.30] -- New list element [id-1004]
+[21.23.37] -- Output list 
+[21.23.47] -- Sorted output 
+[21.23.47] -- Output list 
+[21.24.19] -- Output list 
+[21.24.24] -- Sorted output 
+[21.24.24] -- Output list 
+[21.24.56] -- Modification list element [id-1001]
+[21.25.21] -- Sorted output 
+[21.25.21] -- Output list 
+[21.25.41] -- Sorted output 
+[21.25.41] -- Output list 
+[21.25.52] -- Deletion list element [id-1001]
+[21.26.2] -- Modification list element [id-1001]
+[21.26.14] -- Deletion list element [id-1001]
+[21.26.20] -- Modification list element [id-1001]
+[21.26.36] -- Deletion list element [id-1001]
+[Record of 06.04.2023]
+[21.28.33] -- Start of execution
+[21.28.33] -- New list element [id-1001]
+[21.28.33] -- New list element [id-1002]
+[21.28.33] -- New list element [id-1003]
+[21.28.33] -- New list element [id-1004]
+[21.28.36] -- Deletion list element [id-1001]
+[21.28.37] -- Deletion list element [id-1001]
+[21.28.38] -- Deletion list element [id-1001]
+[21.28.39] -- Deletion list element [id-1001]
+[21.28.42] -- Output list 
+[21.28.52] -- Deletion list element [id-1001]
+[21.28.53] -- Output list 
+[Record of 06.04.2023]
+[21.30.46] -- Start of execution
+[21.30.46] -- New list element [id-1001]
+[21.30.46] -- New list element [id-1002]
+[21.30.46] -- New list element [id-1003]
+[21.30.46] -- New list element [id-1004]
+[Record of 06.04.2023]
+[21.31.02] -- Start of execution
+[21.31.2] -- New list element [id-1001]
+[21.31.2] -- New list element [id-1002]
+[21.31.2] -- New list element [id-1003]
+[21.31.2] -- New list element [id-1004]
+[21.31.5] -- Deletion list element [id-1001]
+[21.31.6] -- Modification list element [id-1004]
+[21.31.12] -- Deletion list element [id-1001]
+[21.31.14] -- Deletion list element [id-1001]
+[21.31.16] -- Deletion list element [id-1001]
+[21.31.59] -- New list element [id-1005]
+[21.32.1] -- Output list 
+[21.32.6] -- Exit  
+[Record of 06.04.2023]
+[21.55.11] -- Start of execution
+[21.55.11] -- New list element [id-1001]
+[21.55.11] -- New list element [id-1002]
+[21.55.11] -- New list element [id-1003]
+[21.55.11] -- New list element [id-1004]
+[21.56.54] -- New list element [id-1005]
+[21.56.56] -- Output list 
+[21.57.20] -- Sorting 
+[21.57.20] -- Output list 
+[21.57.42] -- Sorting 
+[21.57.42] -- Output list 
+[22.2.56] -- Exit  

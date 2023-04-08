@@ -1,0 +1,78 @@
+#include <stdio.h>
+#include <cstdlib>
+
+long double scd()
+{
+	int readinput;
+	long double input;
+	char inputchar;
+
+	while (1)
+	{
+		readinput = scanf_s("%Lf", &input);
+		scanf_s("%c", &inputchar);
+		if (readinput != 0 && inputchar == '\n' && (int)input == input)
+		{
+			return input;
+		}
+		else
+		{
+			printf("Incorrect input. Try again. \n");
+			rewind(stdin);
+		}
+	}
+}
+
+void task1()
+{
+	
+}
+
+void task2()
+{
+
+}
+
+void task3()
+{
+
+}
+
+int main()
+{
+	int n;
+	while (1)
+	{
+		printf("Enter task number: \n");
+		n = scd();
+		printf("\n");
+		switch (n)
+		{
+		case 1:
+			printf("Task 1 \n");
+			printf("\n");
+			task1();
+			printf("\n");
+			break;
+
+		case 2:
+			printf("Task 2 \n");
+			printf("\n");
+			task2();
+			printf("\n");
+			break;
+
+		case 3:
+			printf("Task 3 \n");
+			printf("\n");
+			task3();
+			printf("\n");
+			break;
+
+		default:
+			printf("Incorrect. Try again. \n");
+			printf("\n");
+		}
+	}
+}
+	

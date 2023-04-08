@@ -1,0 +1,75 @@
+long double scd()
+{
+	int readinput;
+	long double input;
+	char inputchar;
+
+	while (1)
+	{
+		readinput = scanf_s("%Lf", &input);
+		scanf_s("%c", &inputchar);
+		if (readinput != 0 && inputchar == '\n' && (int)input == input)
+		{
+			return input;
+		}
+		else
+		{
+			printf("Incorrect input. Try again. \n");
+			rewind(stdin);
+		}
+	}
+}
+
+
+
+{
+srand((int)time(NULL));
+	int a = 0, number;
+	int mas[100];
+
+	//entering number of elements
+	printf("Enter the number of array elements \n");
+	number = scd();
+	while (number >= 100 || number == 0 || number < 0)
+	{
+		printf("Incorrect. Try again. \n");
+		rewind(stdin);
+		number = scd();
+	}
+
+	//selection input method
+	printf("Select array input method:\n1 - random input\n2 - keyboard input\n");
+	int check = -1;
+	while (check == -1)
+	{
+		a = scd();
+		if (a == 1)
+		{			
+			check = 1;
+			for (int i = 0; i < number; i++)
+			{
+				printf("mas[%d] = ", i + 1);
+				mas[i] = rand() % 2001 - 1000;
+				printf("%d\n", mas[i]);	
+			}
+		}
+		else
+		{
+			if (a == 2)
+			{
+				check = 1;
+				printf("Enter array elements \n");
+				for (int i = 0; i < number; i++)
+				{
+					printf("mas[%d] = ", i + 1);
+					mas[i] = scd();
+				}
+			}
+			else
+			{
+				printf("Incorrect. Try again. \n");
+				rewind(stdin);
+			}
+		}
+	}
+}

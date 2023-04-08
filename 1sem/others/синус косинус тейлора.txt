@@ -1,0 +1,49 @@
+long double sinx(long double x)
+{
+	long double znach;
+	while (x > 6.283184)
+		{
+			x = x - (6.283184);
+		}
+	while (x < -6.283184)
+	{
+		x = x + (6.283184);
+	}
+	
+	znach = x;
+	long double factorial = 6, num = 4;
+	long double powl = -x * x * x;
+	for (int i = 0; i < 30; i++)
+	{
+		znach += powl / factorial;
+		factorial *= num * (num + 1);
+		num += 2;
+		powl *= -x * x;
+	}
+	return znach;
+}
+
+long double cosx(long double x)
+{
+	long double znach;
+	while (x > 6.283184)
+	{
+		x = x - (6.283184);
+	}
+	while (x < -6.283184)
+	{
+		x = x + (6.283184);
+	}
+
+	znach = 1;
+	long double factorial = 2, num = 3;
+	long double powl = -x * x;
+	for (int i = 0; i < 30; i++)
+	{
+		znach += powl / factorial;
+		factorial *= num * (num + 1);
+		num += 2;
+		powl *= -x * x;
+	}
+	return znach;
+}

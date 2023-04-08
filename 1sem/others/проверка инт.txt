@@ -1,0 +1,21 @@
+int check_int_input()
+{
+    int readinput;
+    int input;
+    char inputchar;
+
+    while (1)
+    {
+        readinput = scanf_s("%d", &input);
+        scanf_s("%c", &inputchar);
+        if (readinput != 0 && inputchar == '\n' && (int)input == input && input < 2147483647)
+        {
+            return input;
+        }
+        else
+        {
+            printf("Incorrect input. Try again. \n");
+            rewind(stdin);
+        }
+    }
+}

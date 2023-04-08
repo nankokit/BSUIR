@@ -1,0 +1,27 @@
+int num1, num2;
+	for (int i = 0; i < number; i++)
+	{
+		if (mas[i] == 0)
+		{
+			num1 = i;
+			break;
+		}
+		else
+		{
+			num1 = -1;
+		}
+
+	}
+	for (int i = number; i >= 0; i--)
+	{
+		if (mas[i] == 0)
+		{
+			num2 = i;
+			break;
+		}
+		else
+		{
+			num2 = -1;
+		}
+
+	}

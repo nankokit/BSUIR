@@ -1,0 +1,31 @@
+
+	int i = 1, sum/* = 10000*/;
+	printf("Введите изначальную сумму \n");
+	scanf_s("%d", &sum);
+	float result=sum;
+	for (i; result < sum *2; i++)
+	{
+		result = 1.03 * result;
+		printf("Сумма %.3f ", result);
+		printf("Год %d \n", i);
+	}
+	printf("Итоговая сумма %.3f \n", result);
+	if (i%10 == 1)
+			{
+				printf("Сумма удвоится через 1 год \n");
+				printf("\n");
+			}
+	else
+		{
+			if (i % 10 == 2 && i % 10 ==3 && i % 10 == 4)
+				{
+				printf("Сумма удвоится через %d года \n", i);
+				printf("\n");
+				}
+			else
+				{
+				printf("Сумма удвоится через %d лет \n", i);
+				printf("\n");
+				}
+		}
+	}

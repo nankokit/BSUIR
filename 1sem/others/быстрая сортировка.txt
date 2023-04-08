@@ -1,0 +1,29 @@
+int first = 0;
+    int last = m - 1;
+    quicksort(array, first, last);
+
+void quicksort(int *mas, int first, int last)
+{
+    int mid, count;
+    int f = first, l = last;
+    mid = mas[(f + l) / 2]; //вычисление опорного элемента
+    do
+    {
+        while (mas[f] < mid)
+            f++;
+        while (mas[l] > mid)
+            l--;
+        if (f <= l) //перестановка элементов
+        {
+            count = mas[f];
+            mas[f] = mas[l];
+            mas[l] = count;
+            f++;
+            l--;
+        }
+    } while (f < l);
+    if (first < l)
+        quicksort(mas, first, l);
+    if (f < last)
+        quicksort(mas, f, last);
+}

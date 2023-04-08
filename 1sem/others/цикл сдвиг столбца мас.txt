@@ -1,0 +1,10 @@
+int reserve;
+    for (int j = 0; j < size; j++)
+    {
+        reserve = array[0][j];
+        for (i = 0; i < size - 1; i++)
+        {
+            array[i][j] = array[i + 1][j];
+        }
+        array[size - 1][j] = reserve;
+    }

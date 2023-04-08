@@ -1,0 +1,46 @@
+#include <iostream>
+#include <math.h>
+#include <stdio.h>
+
+void task1() 
+{
+
+}
+void task2() 
+{
+
+}
+void task3() 
+{
+
+}
+
+int main()
+{
+	setlocale(0, "rus");
+	int n;
+	while(1)
+	{ 
+		printf("Введите номер задания: %d", n);
+		scanf_s("%d", &n);
+		switch (n)
+		{
+		case 1:
+		{printf("Задание 1 \n");
+		printf("\n");
+		task1();
+		break; }
+		case 2:
+		{printf("Задание 2 \n");
+		printf("\n");
+		task2();
+		break; }
+		case 3:
+		{printf("Задание 3 \n");
+		printf("\n");
+		task3();
+		break; }
+		default:
+		}
+	}
+}

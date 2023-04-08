@@ -1,0 +1,12 @@
+for (i = 0; i < size; i++)
+    {
+        if (array[i] < 0)
+        {
+            for (int j = i; j < size - 1; j++)
+            {
+                array[j] = array[j + 1];
+            }
+            size--;
+            i = -1;
+        }
+    }
