@@ -1,0 +1,14 @@
+pushfront(the other night i had a dream)  
+pushback(if i could just see it all)
+popfront 
+popfront 
+pushback(when the days are cold)
+pushfront(i don't think i need it anymore) 
+pushback(this is my kindom come)
+pushback(Side character) 
+popfront 
+push back(smth)
+
+popfront 
+pushfront(sunlight became numb)
+popfront
