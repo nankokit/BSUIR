@@ -1,1 +1,1 @@
-# BSUIR
+# BSUIR labs
