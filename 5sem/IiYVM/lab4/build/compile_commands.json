@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/univer/5sem/iiuvm/labs/lab4/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\lab4.dir\\main.cpp.obj -c D:\\univer\\5sem\\iiuvm\\labs\\lab4\\main.cpp",
+  "file": "D:/univer/5sem/iiuvm/labs/lab4/main.cpp",
+  "output": "CMakeFiles/lab4.dir/main.cpp.obj"
+}
+]
