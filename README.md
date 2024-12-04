@@ -22,3 +22,12 @@
 - ОИнфБ и ОУИС - какие-то лабы для Столера Д.В.
 - Схемота - лабы и материалы для выживания у Некревич Юлии Игоревны
 - Финальный расчет по твимсам [бесполезно]
+
+**5 семестр** - да прибудут с вами сети и интерфейсы, ack, fin
+- ОсКС - [здесь](https://github.com/nankokit/OsKS), 5 лабы не было, 7 - обжим витой пары
+- СиФОВМ - только сделанные лапками файлы
+- Схемота - отчеты
+- Маркетинг - [презы](https://www.canva.com/design/DAGXk9HcBFg/l-lHsiQtM9bhxft-1hAcFQ/view?utm_content=DAGXk9HcBFg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbf0b4a161f) и пара отчетов в репе
+- ПМС - [сам проект](https://github.com/nankokit/tamagotchi_app) и отчеты в репе
+- ИиУВМ - удачи с хп
+- КиДСВТ - отчеты
