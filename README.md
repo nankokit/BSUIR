@@ -25,10 +25,17 @@
 
 **5 семестр** - да прибудут с вами сети и интерфейсы, ack, fin
 - ОсКС - [здесь](https://github.com/nankokit/OsKS), 5 лабы не было, 7 - обжим витой пары (Иван Иванович)
-- СиФОВМ - только сделанные лапками файлы 
+- СиФОВМ - основные файлы + зипки 
 - Схемота - отчеты
 - Маркетинг - [презы](https://www.canva.com/design/DAGXk9HcBFg/l-lHsiQtM9bhxft-1hAcFQ/view?utm_content=DAGXk9HcBFg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbf0b4a161f) и пара отчетов в репе
 - ПМС - [сам проект](https://github.com/nankokit/tamagotchi_app) и отчеты в репе
 - ИиУВМ - удачи с хп
 - КиДСВТ - отчеты
 - Курсач не особо по гостам, но сам по себе [проект](https://github.com/nankokit/SmartGrow) прикольный, так что с кайфом
+
+**6 семестр** - невероятно, великолепно!
+- АКС -
+- БД - 
+- ОБиП - миллион эссе из гпт
+- СА - 2 вариант
+- СиФОВМ - основные файлы + зипки 
