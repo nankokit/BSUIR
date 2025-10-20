@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl work  \
+"../../../../Lab1.srcs/sources_1/new/SN74.vhd" \
+"../../../../Lab1.srcs/sources_1/new/and3.vhd" \
+"../../../../Lab1.srcs/sources_1/new/NAND2_ONE_REV.vhd" \
+"../../../../Lab1.srcs/sources_1/new/NAND3.vhd" \
+"../../../../Lab1.srcs/sources_1/new/INTEVTOR.vhd" \
+"../../../../Lab1.srcs/sources_1/new/BUFFER.vhd" \
+"../../../../Lab1.srcs/sources_1/new/N_BUFFER.vhd" \
+"../../../../Lab1.srcs/sim_1/new/sn_74_testbench.vhd" \
+
+# Do not sort compile order
+nosort

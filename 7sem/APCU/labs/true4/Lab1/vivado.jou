@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Sep 30 19:22:26 2025
+# Process ID: 25016
+# Current directory: D:/univer/7sem/APCU/labs/ti/Lab1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9072 D:\univer\7sem\APCU\labs\ti\Lab1\Lab1.xpr
+# Log file: D:/univer/7sem/APCU/labs/ti/Lab1/vivado.log
+# Journal file: D:/univer/7sem/APCU/labs/ti/Lab1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/univer/7sem/APCU/labs/ti/Lab1/Lab1.xpr
+launch_simulation
+source file_sn74_tb.tcl
+close_sim
+launch_simulation
+source file_sn74_tb.tcl
+close_sim
+launch_simulation
+source file_sn74_tb.tcl

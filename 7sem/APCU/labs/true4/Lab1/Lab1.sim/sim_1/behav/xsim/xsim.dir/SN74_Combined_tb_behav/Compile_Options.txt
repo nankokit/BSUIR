@@ -1,0 +1,1 @@
+-wto "b33d0c144a6f48b5a95e7aef2ad4cb6f" --incr --debug "typical" --relax --mt "2" -L "work" -L "secureip" --snapshot "SN74_Combined_tb_behav" "work.SN74_Combined_tb" -log "elaborate.log" 

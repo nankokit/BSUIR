@@ -1,0 +1,7 @@
+Running: xsim.dir/SN74_Combined_tb_behav/xsimk.exe -simmode gui -wdb SN74_Combined_tb_behav.wdb -simrunnum 0 -socket 61440
+Design successfully loaded
+Design Loading Memory Usage: 7712 KB (Peak: 7712 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 8300 KB (Peak: 8300 KB)
+Simulation CPU Usage: 109 ms

@@ -1,0 +1,12 @@
+
+{ 
+    crc :  5836865599172319930  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto b33d0c144a6f48b5a95e7aef2ad4cb6f --incr --debug typical --relax --mt 2 -L work -L secureip --snapshot sn74_2_tb_behav work.sn74_2_tb" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:41:02" , 
+    linkCmd : "D:\\Xilinx\\Vivado\\2018.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/sn74_2_tb_behav/xsimk.exe\"   \"xsim.dir/sn74_2_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/sn74_2_tb_behav/obj/xsim_1.win64.obj\" \"D:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"D:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

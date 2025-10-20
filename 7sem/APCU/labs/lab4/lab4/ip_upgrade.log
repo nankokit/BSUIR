@@ -1,0 +1,126 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (win64) Build 2258646 Thu Jun 14 20:03:12 MDT 2018
+| Date         : Sun Oct  5 22:05:06 2025
+| Host         : nankokit running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a200tfbg676-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_xlslice_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the conversion of design_1_xlslice_0_0 (xilinx.com:ip:xlslice:1.0 (Rev. 1)) to Vivado generation flows.
+
+After upgrade, an IP may have parameter differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality.
+
+2. Customization warnings
+-------------------------
+
+An attempt to modify the value of disabled parameter 'DOUT_WIDTH' from '1' to '2' has been ignored for IP 'design_1_xlslice_0_0'
+
+
+3. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:ip:xlslice:1.0 -user_name design_1_xlslice_0_0
+set_property -dict "\
+  CONFIG.Component_Name {design_1_xlslice_0_0} \
+  CONFIG.DIN_FROM {25} \
+  CONFIG.DIN_TO {25} \
+  CONFIG.DIN_WIDTH {26} \
+  CONFIG.DOUT_WIDTH {2} " [get_ips design_1_xlslice_0_0]
+
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (win64) Build 2258646 Thu Jun 14 20:03:12 MDT 2018
+| Date         : Sun Oct  5 22:05:06 2025
+| Host         : nankokit running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a200tfbg676-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_counter_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_counter_0_0 (xilinx.com:user:counter:1.0 (Rev. 2)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (win64) Build 2258646 Thu Jun 14 20:03:12 MDT 2018
+| Date         : Sun Oct  5 22:05:06 2025
+| Host         : nankokit running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a200tfbg676-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_clk_wiz_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_clk_wiz_1 (xilinx.com:ip:clk_wiz:6.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (win64) Build 2258646 Thu Jun 14 20:03:12 MDT 2018
+| Date         : Sun Oct  5 22:05:06 2025
+| Host         : nankokit running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a200tfbg676-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_c_counter_binary_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_c_counter_binary_0_0 (xilinx.com:ip:c_counter_binary:12.0 (Rev. 12)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (win64) Build 2258646 Thu Jun 14 20:03:12 MDT 2018
+| Date         : Sun Oct  5 21:59:53 2025
+| Host         : nankokit running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7vx485tffg1157-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_counter_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_counter_0_0 (xilinx.com:user:counter:1.0 (Rev. 2)) to Vivado generation flows.
+

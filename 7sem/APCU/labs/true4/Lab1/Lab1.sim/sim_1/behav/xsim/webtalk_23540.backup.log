@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Sep 30 19:23:54 2025
+# Process ID: 23540
+# Current directory: D:/univer/7sem/APCU/labs/ti/Lab1/Lab1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/univer/7sem/APCU/labs/ti/Lab1/Lab1.sim/sim_1/behav/xsim/xsim.dir/file_sn74_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/univer/7sem/APCU/labs/ti/Lab1/Lab1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/univer/7sem/APCU/labs/ti/Lab1/Lab1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/univer/7sem/APCU/labs/ti/Lab1/Lab1.sim/sim_1/behav/xsim/xsim.dir/file_sn74_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:08 . Memory (MB): peak = 54.195 ; gain = 0.859
+INFO: [Common 17-206] Exiting Webtalk at Tue Sep 30 19:24:03 2025...

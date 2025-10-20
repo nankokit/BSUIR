@@ -1,0 +1,5 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Failure: Test 6 failed! Inputs: load='1' cten='1' du_t='0' data_in='0''0''0''0' q= '1''0''1''0' out= '0''1''0''1'
+Time: 65 ns  Iteration: 0  Process: /synchronous_counter_tb/test_process  File: D:/univer/7sem/APCU/labs/lab2/lab2.srcs/sim_1/new/synchronous_counter_tb.vhd
+$finish called at time : 65 ns : File "D:/univer/7sem/APCU/labs/lab2/lab2.srcs/sim_1/new/synchronous_counter_tb.vhd" Line 93
