@@ -1,0 +1,4 @@
+{
+  "equipment_booking": ["id_equipment", "id_booking"],
+  "service_booking": ["id_service", "id_booking"]
+}
